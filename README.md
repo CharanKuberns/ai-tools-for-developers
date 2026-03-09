@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [The Honest State of AI Dev in 2026](#the-honest-state-of-ai-dev-in-2026)
-- [Kuberns: The AI Agentic Deployment Platform](#kuberns-the-ai-agentic-deployment-platform)
+- [The AI Agentic Deployment Platform](#kuberns-the-ai-agentic-deployment-platform)
 - [Editors Worth Switching To](#editors-worth-switching-to)
 - [Code Assistants](#code-assistants)
 - [App and UI Builders](#app-and-ui-builders)
